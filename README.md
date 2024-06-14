@@ -24,8 +24,10 @@ FaalGUI is a Java Swing-based GUI application that fetches and displays a random
 
 - **Home Page**: The home page displays a prompt for the user to make a wish and click the button to get a Faal.
 - ![Main Menu](https://github.com/Kosar-Gari/FaaleHafez/blob/main/Screenshots/HomePage%20Panel.png)
+The background color of the home page is set to Shirazi color (RGB: 178, 9, 49)
 - **Get Faal Button**: Clicking the "دریافت فال" (Get Faal) button fetches a random poem and its interpretation from the API and navigates to the Poem Page.
--  **Home Page Background Color**: The background color of the home page is set to Shirazi color (RGB: 178, 9, 49).
+
+
 - **Poem Page**: After clicking the button, the application fetches a poem and its interpretation from the API and displays it.
 - ![Main Menu](https://github.com/Kosar-Gari/FaaleHafez/blob/main/Screenshots/Poem%20%26%20Interpretation%20Panel.png)
 - **Back Button**: Use the back button to return to the home page.
